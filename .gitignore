@@ -1,2 +1,5 @@
 .DS_Store
 data/
+bottleneck_features/
+saved_models/
+.ipynb_checkpoints/
